@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
         - name: todo-app-container
-          image: melbaz58/todo-app-local:52948e5
+          image: melbaz58/todo-app-local:8b90f06
           ports:
             - containerPort: 8080
